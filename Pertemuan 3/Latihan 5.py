@@ -1,3 +1,11 @@
+# ==========================================================
+# TUGAS Pertemuan 3 - Linked List - Latihan 5
+#
+# Nama : Muhammad Rafif Fawwaz
+# NIM : J0403251011
+# Kelas : TPL B1
+# ==========================================================
+
 class Node:
     def __init__(self, data):
         self.data = data
